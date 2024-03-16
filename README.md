@@ -4,7 +4,7 @@
 <p><a href="https://zorkonn.itch.io/rolling-in-time">itch.io Page</a></p>
 This game made for ATUJAM in 72 hours.<br>
 Development, design, and models were made by me. <br>
-No game engine was used for the development of this game. Developed purely in OpenGL.
+No game engine was used for the development of this game. Developed purely with OpenGL.
 <hr>
 
 <img src="https://img.itch.zone/aW1hZ2UvMjU3NjY3Ni8xNTMzODMwNS5wbmc=/original/25q%2B7F.png" />
